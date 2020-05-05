@@ -1,4 +1,4 @@
-# ditty
+# Simple Single Page Application using Vue CLI
 
 ## Project setup
 ```
